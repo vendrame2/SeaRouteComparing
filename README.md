@@ -42,4 +42,17 @@ Github SeaRoute: https://github.com/eurostat/searoute
 - 🐍 Python 3.8+  
 - 📦 Virtualenv ou ambiente similar  
 
+## 📺 Telas do Projeto  
+![Descrição da Imagem](./static/Tela1.png)
+![Descrição da Imagem](./static/Tela2.png)
+
+## 📚 Artigos de Referência
+Confira os artigos e materiais usados como base para o desenvolvimento deste projeto.  
+- [Transit Time Calculator](https://honourocean.com/port-to-port-shipping-transit-time-calculator/)
+- [Sea Rates](https://www.searates.com/pt/distance-time/)
+- [Artigo SObre Rotas Marítimas / Python](https://medium.com/shipping-intel/maritime-professionals-top-5-python-libraries-4e1189ca4207))
+- [GitHub EuroStat / SeaRoute](https://github.com/eurostat/searoute)
+- [Lib SeaRoute](https://pypi.org/project/searoute/)
+- [Artigo - Uso de SeaRoute](https://medium.com/@tayljordan/ocean-voyage-appraisal-using-searoute-and-folium-2200a9402e4f)
+- [ShippingIntel Doc](https://www.shippingintel.com/sdk)
 
